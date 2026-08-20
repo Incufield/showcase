@@ -28,9 +28,9 @@ permission to show it.
 
 ## Permission to publish
 
-- [ ] **I grant Incufield a worldwide, royalty-free, non-exclusive license to
+- [ ] **I grant Physical Spark a worldwide, royalty-free, non-exclusive license to
       display, reproduce, and share this submission, including the display name
-      and images in it, to showcase and promote Incufield and its programs.**
+      and images in it, to showcase and promote Physical Spark and its programs.**
 - [ ] I understand this entry will be public and visible to anyone.
 - [ ] I am 16 or older.
 
