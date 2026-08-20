@@ -5,7 +5,7 @@ believe something here infringes your copyright, tell us and we will act.
 
 ## Sending a notice
 
-Email **dmca@incufield.com** with:
+Email **dmca@physical-spark.com** with:
 
 1. Your signature, electronic is fine.
 2. What work you say is infringed.
