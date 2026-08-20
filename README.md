@@ -1,10 +1,10 @@
-# Incufield Showcase
+# Physical Spark Showcase
 
-Projects built by Incufield students.
+Projects built by Physical Spark students.
 
 ## Browse
 
-Live site: https://incufield.github.io/showcase
+Live site: https://physical-spark.github.io/showcase
 
 ## Submit your project
 
